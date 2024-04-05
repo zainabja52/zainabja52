@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zainab</h1>
+<h1 align="center">Hi , I'm Zainab <img align="center" alt="Coding" width="100" src="https://media1.tenor.com/m/2dPUaC5FN5IAAAAd/%E0%A4%97%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BE-%E0%A4%AB%E0%A5%87%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%BE.gif"> </h1> 
 <h3 align="center">A passionate Computer Engineering Student from Palestine</h3>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
+
+
 </p>
 
 <p align="center">
