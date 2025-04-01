@@ -56,10 +56,6 @@
     <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainabja52&theme=nightowl&hide_border=true" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabja52&theme=nightowl&hide_border=true" />
-</p>
-
 ---
 
 ### 🌐 **Let's Connect**
