@@ -14,7 +14,7 @@
 ### 🎯 **About Me**
 ```diff
 + 💡 Transforming pixels into intelligence since 2020
-! 🚀 Built 10+ AI systems with 95%+ accuracy
+! 🚀 Built many AI systems with 95%+ accuracy
 # 📍 Based in Palestine, working globally
 ```
 
