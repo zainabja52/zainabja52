@@ -1,9 +1,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=E9A5F1&height=180&section=header&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=00000)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E9A5F1&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Zainab+Jaradat;AI%2FML+Engineer;Python+Developer;Cloud+Enthusiast" alt="Dynamic Typing Header" />
-</h1>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E9A5F1&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Zainab+Jaradat;AI%2FML+Engineer;Python+Developer;Cloud+Enthusiast)
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" >
