@@ -1,8 +1,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=E9A5F1&height=180&section=header&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=00000)
 
-
+<div align="center">
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E9A5F1&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Zainab+Jaradat;AI%2FML+Engineer;Python+Developer;Cloud+Enthusiast)
+
+</div>
 
 
 <div align="center">
